@@ -72,7 +72,7 @@ El dashboard interactivo incluye:
 * Análisis de rentabilidad
 * Filtros por región
 
-👉 *(Agregar aquí el link de Tableau Public)*
+👉 [Ver Dashboard en Tableau Public](https://public.tableau.com/views/dashboard_sales_analysis_17785388284750/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -90,6 +90,17 @@ El dashboard interactivo incluye:
 La empresa presenta un buen nivel de rentabilidad general, pero existen oportunidades de mejora en la estrategia de precios y descuentos, así como en la gestión de productos no rentables.
 
 ---
+
+## 📌 Habilidades demostradas
+
+- SQL
+- Limpieza de datos
+- Análisis de datos
+- Visualización de datos
+- Tableau
+- Storytelling con datos
+- Análisis de rentabilidad
+- KPIs de negocio
 
 ## 👤 Autor
 
